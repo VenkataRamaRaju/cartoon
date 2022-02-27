@@ -1,0 +1,29 @@
+body{
+  background-color: #C1F4C5;
+  border-style: groove;
+  border-color: #03045E;
+  border-radius: 10px ;
+  border-width: 5px;
+}
+h1{
+  color: #03045E;
+  border-style:groove;
+  background-color: #65C18C;
+  border-color: #65C18C;
+  width:80%;
+  border-width: 2px;
+}
+h2{
+  color: #03045E;
+  border-radius:10px ;
+  width:30%;
+  background-color: #65C18C;
+  border-color:#65C18C;
+  border-width:2px;
+  border:1px;
+
+}
+.class{
+  border-radius: 50%;
+  border-style: groove;
+}
